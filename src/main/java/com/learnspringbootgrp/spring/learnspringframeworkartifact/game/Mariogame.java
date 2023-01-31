@@ -1,5 +1,8 @@
 package com.learnspringbootgrp.spring.learnspringframeworkartifact.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Mariogame implements GamingConsole {
 
     public void up()
