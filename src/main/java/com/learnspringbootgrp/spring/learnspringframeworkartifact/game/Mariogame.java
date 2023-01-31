@@ -1,6 +1,6 @@
 package com.learnspringbootgrp.spring.learnspringframeworkartifact.game;
 
-public class Mariogame {
+public class Mariogame implements GamingConsole {
 
     public void up()
     {

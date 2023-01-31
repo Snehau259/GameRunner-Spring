@@ -2,8 +2,8 @@ package com.learnspringbootgrp.spring.learnspringframeworkartifact.game;
 
 public class GameRunner {
 //    private Mariogame game;
-private SuperContraGame game;
-    public GameRunner(SuperContraGame game) {
+private GamingConsole game;
+    public GameRunner(GamingConsole game) {
         this.game=game;
     }
 
